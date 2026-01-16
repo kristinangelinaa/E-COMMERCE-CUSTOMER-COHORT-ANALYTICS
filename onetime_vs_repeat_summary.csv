@@ -1,0 +1,3 @@
+CustomerType,CustomerCount,TotalRevenue,AvgRevenuePerCustomer,AvgOrdersPerCustomer,AvgTransactionValue,Customer_%,Revenue_%
+One-Time Buyer,1623,560272.56,345.21,1.0,43.6,27.61,3.22
+Repeat Buyer,4255,16814531.71,3951.71,8.31,50.09,72.39,96.78

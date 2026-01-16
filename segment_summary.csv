@@ -1,0 +1,6 @@
+Segment,CustomerCount,Customer_%,TotalRevenue,Revenue_%
+Loyal Customer (10+ orders),876,14.9,11305946.289,65.07
+Occasional Buyer (3-5 orders),1510,25.69,2093928.051,12.05
+One-Time Buyer,1623,27.61,560272.562,3.22
+Regular Buyer (6-10 orders),925,15.74,2603222.513,14.98
+Two-Time Buyer,944,16.06,811434.853,4.67
