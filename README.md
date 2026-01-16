@@ -356,7 +356,6 @@ Based on the analysis, here are **5 data-driven actions**:
 - **NumPy** - Numerical computations
 - **Plotly** - Interactive 3D visualizations
 - **Streamlit** - Web dashboard framework
-- **Tableau** - Business intelligence (guide included)
 - **Git/GitHub** - Version control
 
 ---
@@ -364,8 +363,6 @@ Based on the analysis, here are **5 data-driven actions**:
 ## 📚 Documentation
 
 - **`README.md`** - This overview (you are here!)
-- **`PROJECT_SUMMARY.md`** - Detailed methodology and findings
-- **`TABLEAU_DASHBOARD_GUIDE.md`** - 40-page step-by-step Tableau tutorial
 - **Code Comments** - Every script has detailed inline documentation
 
 ---
@@ -394,15 +391,9 @@ This is a portfolio project, but suggestions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 👤 Author
 
-**Kristina Angelina**
+**Kristine Angelina**
 - GitHub: [@kristinangelinaa](https://github.com/kristinangelinaa)
 - Project: E-Commerce Customer & Cohort Analytics
 - Rating: 9.6/10
@@ -416,28 +407,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Tools:** Built with Python, Streamlit, and Tableau
 
 ---
-
-## 📞 Contact & Support
-
-Have questions or feedback?
-
-- **Open an Issue:** Use GitHub Issues for bugs or feature requests
-- **Discussion:** Share insights in GitHub Discussions
-- **Star this repo** ⭐ if you find it helpful!
-
----
-
-## 🎉 Project Highlights
-
-✅ **Clean Code:** Human-readable, well-commented Python scripts
-✅ **Complete Pipeline:** From raw data to actionable insights
-✅ **Interactive Dashboard:** 3D visualizations with narrative explanations
-✅ **Business Focus:** Clear ROI and strategic recommendations
-✅ **Portfolio Ready:** Professional documentation and presentation
-✅ **Scalable:** Easily adaptable to other datasets or industries
-
----
-
-**⭐ If this project helped you, please consider giving it a star!**
-
-**🚀 Ready to impress stakeholders with data-driven insights!**
