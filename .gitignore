@@ -26,16 +26,25 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (large CSV files)
-*.csv
-*.parquet
+# Data files - Exclude only very large raw data files
+cleaned_ecommerce_data.csv
+cleaned_ecommerce_data.parquet
+cohort_detailed_transactions.csv
 online_retail_II*
 
-# Exception: Keep small summary files
+# Keep all analysis output CSV files (needed for Streamlit dashboard)
+!cohort_retention_matrix.csv
+!cohort_customer_count.csv
+!cohort_revenue_matrix.csv
+!cohort_ltv_analysis.csv
+!cohort_retention_trends.csv
 !cohort_summary_statistics.csv
+!customer_segmentation_analysis.csv
 !segment_summary.csv
 !onetime_vs_repeat_summary.csv
 !repeat_buyers_summary_metrics.csv
+!monthly_new_vs_repeat_trend.csv
+!rfm_customer_segmentation.csv
 
 # IDE
 .vscode/
